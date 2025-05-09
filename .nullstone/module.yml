@@ -1,0 +1,13 @@
+org_name: nullstone
+name: aws-cloudwatch-log-group-store
+friendly_name: AWS Cloudwatch Log Group
+description: Creates an AWS Cloudwatch log group as an additional store of logs
+category: datastore
+subcategory: ""
+provider_types:
+    - aws
+platform: cloudwatch
+subplatform: ""
+type: ""
+appCategories: []
+is_public: true
